@@ -1,3 +1,4 @@
+// The code below is for the Java version of this project, and it was completed between late March and early April.
 import edu.princeton.cs.introcs.StdDraw;
 import org.firmata4j.*;
 import org.firmata4j.firmata.FirmataDevice;
