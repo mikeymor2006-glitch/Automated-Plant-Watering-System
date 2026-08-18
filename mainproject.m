@@ -1,4 +1,4 @@
-% The code below is for the MATLAB version of this project, and it was completed between late November and early December.
+% The code below is for the MATLAB version of this project, and it was completed between late November 2024 and early December 2024.
 
 %----------------------------------------------------------------------
 MikeysArduino = arduino('COM5', 'Nano3');
