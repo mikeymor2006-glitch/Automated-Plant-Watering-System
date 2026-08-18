@@ -1,5 +1,5 @@
-% note:
-% I have not used a function in the below code for this project because 
+% The code below is for the MATLAB version of this project, and it was completed between late November and early December.
+
 %----------------------------------------------------------------------
 MikeysArduino = arduino('COM5', 'Nano3');
 reallyDryValue = 3.5; % dry value for sensor is 3.5 V
