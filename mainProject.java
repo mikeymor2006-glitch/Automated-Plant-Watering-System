@@ -1,4 +1,4 @@
-// The code below is for the Java version of this project, and it was completed between late March and early April.
+// The code below is for the Java version of this project, and it was completed between late March 2025 and early April 2025.
 import edu.princeton.cs.introcs.StdDraw;
 import org.firmata4j.*;
 import org.firmata4j.firmata.FirmataDevice;
